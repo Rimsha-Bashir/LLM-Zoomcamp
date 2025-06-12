@@ -1,10 +1,13 @@
-## Table of Contents 
-- []()
+# Table of Contents 
+- [Intro to LLM and RAG](#intro-to-llm-and-rag)
+- [Configuring Environment](#configuring-environment)
 
-### What is LLM?
+## Intro to LLM and RAG
 
 [YT LINK](https://youtu.be/Q75JgLEXMsM?si=ikzouY33u3Z63LyB)
 
+
+### What is LLM?
 Large Language Models or Language Models are AI/ML models that are trained on massive amounts of text-based data in order to process and generate natural text/language. They're prediction engines, and a kind of generative AI. 
 
 An input to LLM is generally called "Prompt".  
@@ -54,6 +57,7 @@ What are the side effects of drug X?
                  ┌────────▼────────┐
                  │ Final Answer    │
                  └─────────────────┘
+
 #### Tool Stack 
 | Component        | Example Tools/Libraries                       |
 | ---------------- | --------------------------------------------- |
@@ -65,3 +69,8 @@ What are the side effects of drug X?
 | Orchestration    | LangChain, LlamaIndex, Haystack               |
 | Reranking        | Cohere Rerank, BGE, Cross-Encoder             |
 | Evaluation       | RAGAS, LMEval, Promptfoo, human review        |
+
+## Configuring Environment 
+
+[YT Link](https://youtu.be/ozCpmkbJNJE?si=SaRPXgcX5sWPjF0d)
+
